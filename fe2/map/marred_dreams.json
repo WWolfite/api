@@ -1,12 +1,12 @@
 {
     "data": {
-        "name": "Castle Tides",
-        "creator": "Jolluminati",
+        "name": "Marred Dreams",
+        "creator": "Crazyblox",
         "difficulty": 1,
         "id": "404",
         "buttons": {
-            "standard": 7,
-            "group": 1
+            "standard": 2,
+            "group": 3
         },
         "extra": {
             "is_official": true,

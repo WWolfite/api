@@ -1,11 +1,11 @@
 {
     "data": {
-        "name": "Castle Tides",
-        "creator": "Jolluminati",
+        "name": "Poisonous Valley",
+        "creator": "GustForce",
         "difficulty": 1,
         "id": "404",
         "buttons": {
-            "standard": 7,
+            "standard": 5,
             "group": 1
         },
         "extra": {

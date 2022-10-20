@@ -1,12 +1,12 @@
 {
     "data": {
-        "name": "Castle Tides",
-        "creator": "Jolluminati",
+        "name": "Buried Oasis",
+        "creator": "tony333444",
         "difficulty": 1,
-        "id": "404",
+        "id": "dq5pgo",
         "buttons": {
-            "standard": 7,
-            "group": 1
+            "standard": 2,
+            "group": 4
         },
         "extra": {
             "is_official": true,
