@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Castle Tides",
+        "creator": "Jolluminati",
+        "difficulty": 1,
+        "id": "404",
+        "buttons": {
+            "standard": 7,
+            "group": 1
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 1666259247,
+                "by": "WWolfite"
+            }
+        }
+    }
+}
