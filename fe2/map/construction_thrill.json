@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Construction Thrill",
+        "creator": "ThaDogeTho",
+        "difficulty": 2,
+        "id": "404",
+        "buttons": {
+            "standard": 5,
+            "group": 4
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 211022,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Fall Equinox",
+        "creator": "Phexonia",
+        "difficulty": 2,
+        "id": "+627z11",
+        "buttons": {
+            "standard": 6,
+            "group": 2
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 211022,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

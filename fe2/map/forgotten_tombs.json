@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Forgotten Tombs",
+        "creator": "Crazyblox",
+        "difficulty": 2,
+        "id": "404",
+        "buttons": {
+            "standard": 2,
+            "group": 1
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 211022,
+                "by": "WWolfite"
+            }
+        }
+    }
+}
