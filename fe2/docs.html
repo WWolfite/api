@@ -4,8 +4,54 @@
     <head>
         <title>Docs - Flood Escape 2 API</title>
         <link rel="icon" type="image/x-icon" href="/favicon.png">
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Source+Code+Pro&display=swap" rel="stylesheet">
     </head>
+
+    <style>
+            .font-codepro {
+                font-family: 'Roboto', sans-serif;
+font-family: 'Source Code Pro', monospace;
+color: #FFF
+            }
+            .header-roboto-bold {
+                font-family: 'Roboto', sans-serif;
+                color: #FFF;
+            }
+
+            .sub-header {
+                color: rgba(255, 255, 255, 0.76);
+            }
+
+            .hl {
+                color: rgb(0, 128, 255);
+                text-decoration: none;
+            }
+
+            body {
+                background-color: #000007;
+            }
+    </style>
+
     <body>
-        this is a budget api.
+        <div id="header" style="text-align: center; background-color: #11111198;">
+            <h1 class="header-roboto-bold">Welcome to the unofficial Flood Escape 2 API</h1>
+            <p class="font-codepro sub-header">Only slightly budget.</p>
+        </div>
+
+        <div id="paths" style="text-align: left">
+            
+            <p class="font-codepro" style="font-size: x-large;">[GET] /map/{map_name}.json</p>
+            <p class="font-codepro sub-header">Returns name, creator, difficulty & button info.</p>
+            <p class="font-codepro sub-header">Example: <a class="hl" href="/map/lost_woods.json" target="_blank">Lost Woods</a></p> 
+        </div>
+
+        <div id="bottom" style="position:absolute; bottom:0; width:100%; height:60px; text-align: center;">
+            
+            <p class="font-codepro sub-header">Information from this API/database is based off of the <a class="hl" href="https://flood-escape-2.fandom.com/" target="_blank">Flood Escape 2 Wiki</a>.</p>
+        </div>
     </body>
 </html>
