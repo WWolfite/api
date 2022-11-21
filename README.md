@@ -1,2 +1,2 @@
 # About
-This is a budget API for Flood-Escape-2. The information here is from the FE2 wiki.
+bad api things... mostly made for fun bc github doesnt seem to be good with making API's...
