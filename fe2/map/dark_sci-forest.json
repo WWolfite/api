@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Dark Sci-Forest",
+        "creator": "Crazyblox",
+        "difficulty": 3,
+        "id": "404",
+        "buttons": {
+            "standard": 6,
+            "group": 3
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

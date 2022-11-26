@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Relic Valley",
+        "creator": "1Blindy",
+        "difficulty": 3,
+        "id": "8n109g1",
+        "buttons": {
+            "standard": 4,
+            "group": 3
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "outdated",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

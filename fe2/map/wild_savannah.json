@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Wild Savannah",
+        "creator": "rareheaddress",
+        "difficulty": 3,
+        "id": "404",
+        "buttons": {
+            "standard": 5,
+            "group": 0
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

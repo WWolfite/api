@@ -1,0 +1,20 @@
+{
+    "data": {
+        "name": "Crystal Caverns",
+        "creator": "FloodEscaper1",
+        "difficulty": 3,
+        "id": "6he757",
+        "buttons": {
+            "standard": 7,
+            "group": 1
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}
