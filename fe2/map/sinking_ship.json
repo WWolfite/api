@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Sinking Ship",
+        "creator": "Crazyblox",
+        "difficulty": 4,
+        "id": "u*x2is1",
+        "buttons": {
+            "standard": 1,
+            "group": 4
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "outdated",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

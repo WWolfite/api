@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Satomi Springs",
+        "creator": "coolzak35",
+        "difficulty": 4,
+        "id": "404",
+        "buttons": {
+            "standard": 3,
+            "group": 3
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "none",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Gloomy Manor",
+        "creator": "rareheaddress",
+        "difficulty": 4,
+        "id": "edoe9d",
+        "buttons": {
+            "standard": 6,
+            "group": 4  
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "shared",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

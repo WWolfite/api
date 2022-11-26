@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Magmatic Mines",
+        "creator": "shortroundzach",
+        "difficulty": 4,
+        "id": "314tjl",
+        "buttons": {
+            "standard": 4,
+            "group": 3
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "none",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

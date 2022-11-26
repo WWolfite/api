@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Dark Sci-Facility",
+        "creator": "Crazyblox",
+        "difficulty": 4,
+        "id": "r+igr*",
+        "buttons": {
+            "standard": 6,
+            "group": 1
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "outdated/issues",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}
