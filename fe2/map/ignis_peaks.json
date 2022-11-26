@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Ignis Peaks",
+        "creator": "noomlek",
+        "difficulty": 5,
+        "id": "d5qghe",
+        "buttons": {
+            "standard": 3,
+            "group": 3
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "moved",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}

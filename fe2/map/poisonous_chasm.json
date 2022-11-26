@@ -1,0 +1,21 @@
+{
+    "data": {
+        "name": "Poisonous Chasm",
+        "creator": "shortroundzach",
+        "difficulty": 5,
+        "id": "gfzzcu2",
+        "buttons": {
+            "standard": 5,
+            "group": 2
+        },
+        "extra": {
+            "is_official": true,
+            "game": "fe2",
+            "id_info": "none",
+            "contribution": {
+                "last-updated": 261122,
+                "by": "WWolfite"
+            }
+        }
+    }
+}
