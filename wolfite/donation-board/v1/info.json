@@ -1,0 +1,18 @@
+{
+    "message": {
+        "creator": {
+            "id": 655331725,
+            "name": "WWolfite",
+            "display_name":  "Wolfite"
+        },
+        "text": "Hope this thing is on!"
+    },
+
+    "version": 0.1,
+    "id": 0,
+    "holder_info": {
+        "id": 655331725,
+        "name": "WWolfite",
+        "type": "User"
+    }
+}
